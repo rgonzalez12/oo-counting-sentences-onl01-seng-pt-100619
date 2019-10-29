@@ -15,9 +15,10 @@ class String
   end
 
   def count_sentences
-    self.count_sentences
-      if self.end_with?(".")
-        then return string
+    if !self.include.split(" ")
+      
+      
+        
       else 
         
     
