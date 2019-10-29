@@ -15,12 +15,6 @@ class String
   end
 
   def count_sentences
-    if !self.include.split(" ")
-      
-      
-        
-      else 
-        
     
   end
 end
